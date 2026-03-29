@@ -23,37 +23,29 @@ Aspiring AI Engineer with hands-on experience in **agentic AI systems, RAG pipel
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+### Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+### AI / ML:
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge)
 
-### 🤖 AI / ML Frameworks
-![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-000?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-000?style=for-the-badge)
+### Frameworks & Libraries:
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
----
+### Infra & Tools:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=for-the-badge)
 
-### 📚 Libraries
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)
-
----
-
-### ⚙️ Backend & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode)
-![LangSmith](https://img.shields.io/badge/LangSmith-000?style=for-the-badge)
-
----
-
-### ☁️ Cloud & Deployment
-![Railway](https://img.shields.io/badge/Railway-000?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+### Cloud & Deployment:
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
 ---
 
