@@ -35,12 +35,9 @@ Aspiring AI Engineer with hands-on experience in **agentic AI systems, RAG pipel
 
 **Frameworks & Libraries:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-**Vector & Search:**  
-![Pinecone](https://img.shields.io/badge/🌲_Pinecone-000000?style=for-the-badge)
-![Tavily](https://img.shields.io/badge/🔍_Tavily-0052CC?style=for-the-badge)
 
 **Infra & Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -52,31 +49,6 @@ Aspiring AI Engineer with hands-on experience in **agentic AI systems, RAG pipel
 ![Railway](https://img.shields.io/badge/🚂_Railway-0B0D0E?style=for-the-badge&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🛠️ Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**AI / ML:**  
-![LangChain](https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1E1E1E?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1E1E1E?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Frameworks & Libraries:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-**Infra & Tools:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![LangSmith](https://img.shields.io/badge/LangSmith-1E1E1E?style=for-the-badge)
-
-**Cloud & Deployment:**  
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
 ---
 
