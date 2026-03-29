@@ -12,12 +12,10 @@
 
 ## 🚀 About Me
 
-Aspiring AI Engineer with hands-on experience in **agentic AI systems, RAG pipelines, and LLM-powered applications**.
-
-- 🧠 Building multi-step agent workflows using **LangGraph & LangChain**  
-- 📚 Designing retrieval systems with **vector databases & embeddings**  
-- ⚙️ Developing scalable backends using **FastAPI**  
-- 🎯 Focused on solving **real-world problems using GenAI**
+Aspiring AI Engineer with hands-on experience in agentic AI systems, RAG pipelines, and LLM-powered applications. Skilled
+in building multi-step agent workflows using LangGraph and LangChain, retrieval-optimized knowledge bases with vector
+databases, and backend services using FastAPI. Eager to apply GenAI engineering skills to design and deploy AI-driven
+workflows for real-world problem-solving.
 
 ---
 
