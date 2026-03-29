@@ -67,8 +67,8 @@ Aspiring AI Engineer with hands-on experience in **agentic AI systems, RAG pipel
 
 ## 💼 Projects
 
-### 🔹 [CodeSentinel](https://github.com/ritwik-basak/CodeSentinel) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-↗-00C853?style=flat-square)](https://code-sentinel2.vercel.app/)
-**Multi-agent autonomous code review & self-debugging system**  
+### 🔹 [CodeSentinel — Multi-Agent Code Analysis & Self-Repair System ](https://github.com/ritwik-basak/CodeSentinel) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-↗-00C853?style=flat-square)](https://code-sentinel2.vercel.app/) 
+**autonomously reviews GitHub repositories and self-repairs bugs**
 LangGraph orchestration · RAG via Pinecone + LlamaIndex · E2B sandbox execution · Tree-sitter AST parsing · Real-time SSE streaming · React + Vite frontend
 
 `LangGraph` `LlamaIndex` `Pinecone` `Groq Llama 3.3` `E2B` `Tree-sitter` `FastAPI` `React`
