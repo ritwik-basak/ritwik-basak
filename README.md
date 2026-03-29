@@ -23,135 +23,6 @@ Aspiring AI Engineer with hands-on experience in **agentic AI systems, RAG pipel
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**AI / ML:**  
-![LangChain](https://img.shields.io/badge/🦜_LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-1a1a2e?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-6929c4?style=for-the-badge&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-
-**Frameworks & Libraries:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-
-**Infra & Tools:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![LangSmith](https://img.shields.io/badge/🔭_LangSmith-FF6B35?style=for-the-badge)
-
-**Cloud & Deployment:**  
-![Railway](https://img.shields.io/badge/🚂_Railway-0B0D0E?style=for-the-badge&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-
----
-
-### 🧠 Core Concepts
-`Agentic AI` `Multi-Agent Systems` `RAG` `Tool Calling`  
-`LLM Workflows` `Vector Databases` `Embeddings`  
-`Semantic Retrieval` `Prompt Engineering`
-
----
-
-## 💼 Projects
-
-### 🔹 CodeSentinel  
-Multi-agent autonomous code review & self-debugging system  
-- LangGraph-based workflow orchestration  
-- RAG-powered context retrieval  
-- Real-time streaming with SSE  
-🔗 Live: https://code-sentinel2.vercel.app/
-
----
-
-### 🔹 Minerva  
-Agentic research intelligence platform  
-- Multi-agent pipeline (Search, Rerank, Summarize, Writer)  
-- Gemini-powered structured report generation  
-
----
-
-### 🔹 StockIQ  
-AI-powered stock analysis dashboard  
-- Real-time data + comparison charts  
-- Integrated chatbot for insights  
-- FastAPI + Pandas backend  
-
----
-
-### 🔹 RAG PDF Chatbot  
-Document-aware AI assistant  
-- PDF ingestion + semantic retrieval  
-- Pinecone + embeddings  
-- LangChain + FastAPI backend  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritwik-basak&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritwik-basak&theme=tokyonight" />
-</p>
-
----
-
-## 🌱 Currently
-
-- 🚀 Building **production-grade AI systems**
-- 📚 Learning **system design for LLM applications**
-- ⚡ Exploring **deployment & scaling of AI backends**
-- 🎯 Preparing for **AI Engineer / Backend roles**
-
----
-
-## ⚡ Fun Fact
-
-I enjoy building systems where **multiple AI agents collaborate like a team** 🤖🤝🤖
-
-
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hey%2C+I'm+Ritwik+%F0%9F%91%8B;Aspiring+AI+Engineer;Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Applications" />
-</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ritwikbasak/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ritwik%20Basak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Internships-00C853?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Based%20in-Siliguri%20→%20Bangalore-555555?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 About Me
-
-Aspiring AI Engineer building production-grade **agentic AI systems, RAG pipelines, and LLM-powered applications**.
-
-| | |
-|---|---|
-| 🧠 | Multi-step agent workflows with **LangGraph & LangChain** |
-| 📚 | Retrieval systems with **vector databases & embeddings** |
-| ⚙️ | Scalable backends with **FastAPI + SSE streaming** |
-| 🎓 | Certified in **GenAI & Multi-Agent Systems** (IBM × CodingNinjas) |
-
----
-
-## 🛠️ Tech Stack
-
 **Language:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -165,9 +36,8 @@ Aspiring AI Engineer building production-grade **agentic AI systems, RAG pipelin
 
 **Frameworks & Libraries:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
 **Vector & Retrieval:**  
 ![Pinecone](https://img.shields.io/badge/🌲_Pinecone-000000?style=for-the-badge)
@@ -205,7 +75,7 @@ LangGraph orchestration · RAG via Pinecone + LlamaIndex · E2B sandbox executio
 
 ---
 
-### 🔹 Minerva — Agentic Research Intelligence
+### 🔹 [Minerva — Agentic Research Intelligence](https://github.com/ritwik-basak/Minerva)
 **Multi-agent research platform with structured report generation**  
 Supervisor → Search → Reranker → Summarizer → Writer pipeline · Gemini 2.5 Flash · LangSmith tracing · Tavily search · CrossEncoder reranking
 
@@ -221,8 +91,39 @@ Live ticker tape · Multi-stock comparison charts · Integrated chatbot · Paral
 
 ---
 
-### 🔹 RAG PDF Chatbot
+### 🔹 [RAG PDF Chatbot](https://github.com/ritwik-basak/rag-pdf-chatbot)
 **Document-aware AI assistant**  
 PDF ingestion · Semantic retrieval via Pinecone · Glassmorphism React frontend
 
-`LangChain` `Pinecone` `Gemini Embeddings` `FastAPI` `R
+`LangChain` `Pinecone` `Gemini Embeddings` `FastAPI`
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ritwik-basak&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritwik-basak&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently
+
+- 🚀 Building **production-grade AI systems**
+- 📚 Learning **system design for LLM applications**
+- ⚡ Exploring **deployment & scaling of AI backends**
+- 🎯 Preparing for **AI Engineer / Backend roles**
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems where **multiple AI agents collaborate like a team** 🤖🤝🤖
+
+
+
+
+
