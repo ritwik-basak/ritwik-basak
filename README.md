@@ -125,6 +125,8 @@ PDF ingestion · Semantic retrieval via Pinecone · Glassmorphism React frontend
 I enjoy building systems where **multiple AI agents collaborate like a team** 🤖🤝🤖
 
 
-
+<p align="center">
+  <img src="github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
 
 
