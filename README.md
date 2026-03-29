@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&height=80&lines=Hey%2C+I'm+Ritwik+%F0%9F%91%8B" />
-</h1>
+<h1 align="center">Hey, I'm Ritwik 👋</h1>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Aspiring+AI+Engineer;Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Applications" />
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ritwikbasak/">
