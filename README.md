@@ -92,10 +92,12 @@ Document-aware AI assistant
 
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ritwik-basak&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritwik-basak&theme=tokyonight" />
 </p>
 
 ---
