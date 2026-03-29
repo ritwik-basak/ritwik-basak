@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ritwik Basak</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ritwik;Aspiring+AI+Engineer;Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Applications" />
 </p>
