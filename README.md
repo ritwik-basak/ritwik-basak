@@ -156,52 +156,7 @@ Experienced in collaborating with cross-functional teams, improving UI consisten
 
 ---
 
-## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=fff"/>
-</p>
-
----
-
-### 🎨 Frontend & UI
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-</p>
-
----
-
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
----
-
-### 🧰 Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Accessibility-NVDA-0066CC?style=for-the-badge"/>
-</p>
-
----
-
-### 🧠 Core Concepts
-`Frontend Architecture` `Design Systems` `Accessibility (WCAG)`  
-`Component Reusability` `Performance Optimization` `REST APIs`  
 
 ---
 
@@ -297,7 +252,7 @@ I enjoy building **clean, scalable UI systems** and solving problems beyond my c
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hey%2C+I'm+Sidharth+%F0%9F%91%8B;Frontend+Engineer;React+%7C+Accessibility+%7C+Scalable+UI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hey%2C+I'm+Sidharth+%F0%9F%91%8B;Frontend+Engineer;React+%7C+JS%2FTS+%7C+Redux+%7C+Java+%7C+AWS" />
 </h1>
 
 <p align="center">
@@ -324,32 +279,47 @@ Experienced in collaborating with cross-functional teams, improving UI consisten
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Frontend & UI:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-**Backend & APIs:**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![REST](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=JSON&logoColor=white)
-
-**Tools & DevOps:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![NVDA](https://img.shields.io/badge/NVDA_Accessibility-0066CC?style=for-the-badge&logo=AbletonLive&logoColor=white)
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=fff"/>
+</p>
 
 ---
+
+### 🎨 Frontend & UI
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+</p>
+
+---
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+### 🧰 Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Accessibility-NVDA-0066CC?style=for-the-badge"/>
+</p>
+
+---
+
 
 ### 🧠 Core Concepts
 
