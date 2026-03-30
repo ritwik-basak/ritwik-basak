@@ -128,3 +128,152 @@ I enjoy building systems where **multiple AI agents collaborate like a team** �
 </p>
 
 
+
+
+
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hey%2C+I'm+Sidharth+%F0%9F%91%8B;Frontend+Engineer;React+%7C+Accessibility+%7C+Scalable+UI+Systems" />
+</h1>
+
+<p align="center">
+  <a href="https://linkedin.com/sidharthkumar007">
+    <img src="https://img.shields.io/badge/LinkedIn-Sidharth%20Behera-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/sidharth-kumar007">
+    <img src="https://img.shields.io/badge/GitHub-sidharth--kumar007-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+Frontend Engineer with strong experience in building scalable, accessible, and high-performance web applications. Skilled in React ecosystem, design systems, and enterprise UI development. 
+
+Experienced in collaborating with cross-functional teams, improving UI consistency, and optimizing performance. Also explored backend engineering using FastAPI and Azure APIs to solve real-world problems.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge)
+
+**Frontend & UI:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+**Backend & APIs:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+**Tools & DevOps:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github)
+![NVDA](https://img.shields.io/badge/NVDA_Accessibility-0066CC?style=for-the-badge)
+
+---
+
+### 🧠 Core Concepts
+`Frontend Architecture` `Design Systems` `Accessibility (WCAG)`  
+`Component Reusability` `Performance Optimization` `REST APIs`  
+
+---
+
+## 💼 Experience
+
+### 🔹 Infosys (Client: Syngenta Global AG)  
+📅 Jun 2024 – Present  
+
+- Built and maintained a **shared UI component library** (Navbar, Sidebar, core components)  
+- Achieved **90% UI consistency** across React applications  
+- Developed responsive UI using **Material UI (DataGrid, etc.)**  
+- Enforced code quality using **ESLint & SonarCloud**  
+- Used **Git workflows and design patterns** for scalable architecture  
+- Leveraged **AI tools (GitHub Copilot, Claude)** for faster development  
+
+**Backend Contribution:**  
+- Built a **FastAPI solution** for bulk Azure Graph API data retrieval  
+- Implemented chunking → reduced latency by **30% (10,000+ records)**  
+
+---
+
+### 🔹 Tata Consultancy Services (Client: Meijer Inc)  
+📅 Mar 2021 – Jun 2024  
+
+- Developed **10+ PWA pages** using React, JS, HTML, CSS  
+- Worked with **Figma designs** and integrated APIs  
+- Built POCs that improved **UI/UX and got deployed to production**  
+
+---
+
+### 🔹 Tata Consultancy Services (Client: Lufthansa)  
+
+- Reported and fixed **50+ accessibility issues (WCAG/ADA)**  
+- Worked closely with dev teams to ensure compliance  
+- Mentored team members, including **visually impaired testers**  
+
+---
+
+## 🚀 Projects
+
+### 🔹 YouTube Clone  
+**React-based video browsing application**  
+
+- RapidAPI integration  
+- Debounced search for performance  
+- Controlled components & routing  
+- Built with Material UI  
+
+`React` `Material UI` `Debouncing` `React Router`
+
+---
+
+### 🔹 QKART (E-Commerce Platform)  
+**Feature-rich shopping application**  
+
+- Authentication (Login/Register)  
+- Dynamic routing  
+- Optimized search experience  
+
+`React Hooks` `Authentication` `Material UI`
+
+---
+
+## 📜 Certifications
+
+- ✅ GitHub Copilot Certification  
+  - Prompt Engineering  
+  - AI-assisted development  
+
+---
+
+## 🎓 Education
+
+**B.Tech in Mechanical Engineering**  
+Orissa Engineering College (2016 – 2020)  
+GPA: **7.99 / 10**  
+
+---
+
+## 🌱 Currently
+
+- 🚀 Improving **frontend architecture & scalability**  
+- 📚 Deepening knowledge in **system design**  
+- ⚡ Exploring **backend + fullstack development**  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building **clean, scalable UI systems** and solving problems beyond my core domain 🚀
