@@ -313,8 +313,8 @@ Experienced in collaborating with cross-functional teams, improving UI consisten
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Frontend & UI:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -325,14 +325,14 @@ Experienced in collaborating with cross-functional teams, improving UI consisten
 
 **Backend & APIs:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![REST](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Tools & DevOps:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github)
-![NVDA](https://img.shields.io/badge/NVDA_Accessibility-0066CC?style=for-the-badge)
+![NVDA](https://img.shields.io/badge/NVDA_Accessibility-0066CC?style=for-the-badge&logo=accessibility&logoColor=white)
 
 ---
 
