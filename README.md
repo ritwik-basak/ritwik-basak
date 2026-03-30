@@ -324,15 +324,15 @@ Experienced in collaborating with cross-functional teams, improving UI consisten
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 **Backend & APIs:**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![REST](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![REST](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=JSON&logoColor=white)
 
 **Tools & DevOps:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github)
-![NVDA](https://img.shields.io/badge/NVDA_Accessibility-0066CC?style=for-the-badge&logo=accessibility&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![NVDA](https://img.shields.io/badge/NVDA_Accessibility-0066CC?style=for-the-badge&logo=AbletonLive&logoColor=white)
 
 ---
 
