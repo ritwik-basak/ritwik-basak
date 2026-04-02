@@ -27,10 +27,10 @@ workflows for real-world problem-solving.
 **AI / ML:**  
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-000000?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-1a1a2e?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-6929c4?style=for-the-badge&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-6929c4?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq_Llama_3.3-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLM-FF4F00?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Frameworks & Libraries:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -38,28 +38,32 @@ workflows for real-world problem-solving.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
 **Vector & Retrieval:**  
-![Pinecone](https://img.shields.io/badge/🌲_Pinecone-000000?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![CrossEncoder](https://img.shields.io/badge/CrossEncoder_Reranking-764ABC?style=for-the-badge)
-![E2B](https://img.shields.io/badge/E2B_Sandbox-1A1A1A?style=for-the-badge)
-![Tree-sitter](https://img.shields.io/badge/Tree--sitter-3E7C17?style=for-the-badge)
+![BM25](https://img.shields.io/badge/BM25_Sparse_Search-8A2BE2?style=for-the-badge)
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Infra & Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![LangSmith](https://img.shields.io/badge/🔭_LangSmith-FF6B35?style=for-the-badge)
-![Tavily](https://img.shields.io/badge/🔍_Tavily-0052CC?style=for-the-badge)
-![PyGitHub](https://img.shields.io/badge/PyGitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge)
 
 **Cloud & Deployment:**  
-![Railway](https://img.shields.io/badge/🚂_Railway-0B0D0E?style=for-the-badge)
+![GCP](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GCS](https://img.shields.io/badge/GCS-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ### 🧠 Core Concepts
 `Agentic AI` `Multi-Agent Systems` `RAG` `Tool Calling` `LLM Orchestration`  
-`Vector Databases` `Embeddings` `Semantic Retrieval` `SSE Streaming` `Prompt Engineering`
+`Vector Databases` `Prompt Engineering`
 
 ---
 
