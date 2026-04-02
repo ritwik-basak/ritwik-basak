@@ -77,6 +77,14 @@ LangGraph orchestration · RAG via Pinecone + LlamaIndex · E2B sandbox executio
 
 ---
 
+### 🔹 [Flowdesk — Agentic Customer Support System](https://github.com/ritwik-basak/flowdesk-support-agent) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-↗-00C853?style=flat-square)](https://flowdesk-support-agent-two.vercel.app/)
+**production-grade multi-agent system for intelligent customer support automation**
+LangGraph supervisor architecture · Hybrid RAG (Pinecone + BM25 + CrossEncoder) · LLMOps evaluation & confidence scoring · PostgreSQL-based memory · Dockerized deployment on GCP Cloud Run · CI/CD with GitHub Actions
+
+`LangGraph` `LangChain` `Pinecone` `BM25` `CrossEncoder` `PostgreSQL` `Gemini` `Groq` `FastAPI` `Docker` `GCP`
+
+---
+
 ### 🔹 [Minerva — Agentic Research Intelligence](https://github.com/ritwik-basak/Minerva)
 **Multi-agent research platform with structured report generation**  
 Supervisor → Search → Reranker → Summarizer → Writer pipeline · Gemini 2.5 Flash · LangSmith tracing · Tavily search · CrossEncoder reranking
