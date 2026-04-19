@@ -12,7 +12,8 @@
 
 ## 🚀 About Me
 
-AI Engineer with hands-on experience in agentic AI systems, RAG pipelines, and LLM-powered applications. Skilled
+Currently working at E-Mech Solutions as a Software Engineer.
+Having hands-on experience in agentic AI systems, RAG pipelines, and LLM-powered applications. Skilled
 in building multi-step agent workflows using LangGraph and LangChain, retrieval-optimized knowledge bases with vector
 databases, and backend services using FastAPI. Eager to apply GenAI engineering skills to design and deploy AI-driven
 workflows for real-world problem-solving.
