@@ -28,28 +28,31 @@ workflows for real-world problem-solving.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **AI / ML:**  
-![LangChain](https://img.shields.io/badge/🦜_LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-1a1a2e?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-6929c4?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-222222?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-6A5ACD?style=for-the-badge)
+
+**GenAI Frameworks:**  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1a1a2e?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6929c4?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq_LLM-FF4F00?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Frameworks & Libraries:**  
+**Backend:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 
-**Vector & Retrieval:**  
+**Databases & Vector Stores:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
-![CrossEncoder](https://img.shields.io/badge/CrossEncoder_Reranking-764ABC?style=for-the-badge)
-![BM25](https://img.shields.io/badge/BM25_Sparse_Search-8A2BE2?style=for-the-badge)
 
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Libraries:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-**Infra & Tools:**  
+**DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -57,7 +60,8 @@ workflows for real-world problem-solving.
 ![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge)
 
 **Cloud & Deployment:**  
-![GCP](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![GCS](https://img.shields.io/badge/GCS-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
