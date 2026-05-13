@@ -102,7 +102,7 @@ workflows for real-world problem-solving.
 ## 💼 Projects
 
 
-### 🔹 [ResolveDesk — Agentic Customer Support System](https://github.com/ritwik-basak/resolve-desk) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300C853?style=flat-square)](https://resolve-desk-plum.vercel.app/)
+### 🔹 [ResolveDesk — Agentic Customer Support System](https://github.com/ritwik-basak/resolve-desk) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-↗-00C853?style=flat-square)](https://resolve-desk-plum.vercel.app/)
 
 
 **production-grade multi-agent system for intelligent customer support automation**
