@@ -102,7 +102,8 @@ workflows for real-world problem-solving.
 ## 💼 Projects
 
 
-### 🔹 [Flowdesk — Agentic Customer Support System](https://github.com/ritwik-basak/flowdesk-support-agent) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-↗-00C853?style=flat-square)](https://flowdesk-support-agent-two.vercel.app/)
+### 🔹 [ResolveDesk — Agentic Customer Support System](https://github.com/ritwik-basak/resolve-desk) &nbsp; ![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300C853?style=flat-square)(https://resolve-desk-plum.vercel.app/)
+
 **production-grade multi-agent system for intelligent customer support automation**
 LangGraph supervisor architecture · Hybrid RAG (Pinecone + BM25 + CrossEncoder) · LLMOps evaluation & confidence scoring · PostgreSQL-based memory · Dockerized deployment on GCP Cloud Run · CI/CD with GitHub Actions
 
